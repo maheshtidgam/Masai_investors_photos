@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    margin: auto;
+    
+    width: 1400px;
+    
+    
+
+}
+
+.logo{
+    height: 60px;
+}
+
+.image{
+    padding-top: 10px;
+    border-radius: 5%; 
+    margin-left: 40px;
+    display: inline-block;
+    text-align: center;
+    background-color: whitesmoke;
+    
+    
+    
+}
